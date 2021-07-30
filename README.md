@@ -7,8 +7,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Oner-Flask" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
-  <img align="center" alt="Oner-Django" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+  <img align="center" alt="Oner-Flask" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png">
+  <img align="center" alt="Oner-Django" height="30" width="40" src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png">
+  <img align="center" alt="Oner-MongoDB" height="30" width="40" src="https://img.icons8.com/color/452/mongodb.png">
   <img align="center" alt="Oner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Oner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Oner-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
