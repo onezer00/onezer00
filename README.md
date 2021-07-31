@@ -6,7 +6,7 @@
   <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onezer00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block" style="width: 450px"><br>
+<div style="display: inline_block" style="width: 450px" style="align: center"><br>
   <img align="center" alt="Oner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Oner-Flask" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png">
   <img align="center" alt="Oner-Django" height="30" width="40" src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png">
