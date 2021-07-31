@@ -17,7 +17,7 @@
   <img align="center" alt="Oner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
 <div style="display: inline"><br>
-  <img alt="Oner-gif" height="220" width="450" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+  <img alt="Oner-gif" height="180" width="420" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 </div>
 
   ##
