@@ -1,4 +1,12 @@
-## Fala aí galera! Sou conhecido como Oner 
+## Fala aí galera! Sou conhecido como Oner!
+<div>
+  Sempre achei interessante a área de Desenvolvimento, e acho um mundo particularmente encantador.
+  Acredito que nessa área a troca de conhecimentos é importante e uma forma de incentivo a galera que está chegando é o compartilhamento de informação.
+  
+  Sintam se a vontade de aprender e ensinar nesta página.
+  
+  Abç
+</div>
 
 <div>
   <a href="https://github.com/onezer00">
