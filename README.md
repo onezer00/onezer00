@@ -27,7 +27,6 @@
   </div>
  
 <div>
-   <a href="https://skyline.github.com/onezer00/2021" target="_blank"></a>
   <img align="center" alt="Oner-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img align="center" alt="Oner-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
   <img align="center" alt="Oner-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
