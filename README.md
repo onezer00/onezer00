@@ -24,7 +24,7 @@
   <img align="center" alt="Oner-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Oner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br><br>
-  <img align="right" alt="Jose-pic" height="150" style="border-radius:50px;" src="https://readyplayer.me/gallery/6dopEBdIR">
+  <img align="right" alt="Jose-pic" height="150" style="border-radius:50px;" src="https://renderapi.s3.amazonaws.com/6dopEBdIR.png">
   </div>
  
 <div>
