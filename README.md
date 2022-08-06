@@ -10,11 +10,11 @@
 
 <div>
   <a href="https://github.com/onezer00">
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=onezer00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onezer00&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onezer00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onezer00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block" style="width: 450px;" style="align: center;"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Oner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Oner-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Oner-Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
@@ -24,6 +24,7 @@
   <img align="center" alt="Oner-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Oner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br><br>
+  <img align="right" alt="Jose-pic" height="150" style="border-radius:50px;" src="https://readyplayer.me/gallery/6dopEBdIR">
   </div>
  
 <div>
