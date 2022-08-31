@@ -50,7 +50,7 @@
   <img align="center" alt="Oner-css3" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/css3-brands.svg">
   <img align="center" alt="Oner-databases" height="30" width="40" src="https://github.com/onezer00/onezer00/blob/main/images/database-solid.svg">
   <img align="center" alt="Oner-Linux" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/linux-brands.svg">
-  <img align="center" alt="Oner-ubuntu" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/ubuntu-brands.svg">
+  <img align="center" alt="Oner-ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/ubuntu-brands.svg">
   <img align="center" alt="Oner-centos" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/centos-brands.svg">
   <img align="center" alt="Oner-redhat" height="30" width="40" src="https://github.com/onezer00/onezer00/blob/main/images/redhat-brands.svg"/>
   
