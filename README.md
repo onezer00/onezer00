@@ -43,21 +43,17 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Oner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Oner-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Oner-Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-  <img align="center" alt="Oner-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Oner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Oner-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Oner-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Oner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Oner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br><br>
-  <img align="right" alt="Jose-pic" height="150" style="border-radius:50px;" src="https://renderapi.s3.amazonaws.com/6dopEBdIR.png">
-  </div>
-<div>
-  <img align="center" alt="Oner-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Oner-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
-  <img align="center" alt="Oner-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Oner-python" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/python-brands.svg">
+  <img align="center" alt="Oner-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/node-brands.svg">
+  <img align="center" alt="Oner-C" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/c-solid.svg">
+  <img align="center" alt="Oner-html5" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/html5-brands.svg">
+  <img align="center" alt="Oner-css3" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/css3-brands.svg">
+  <img align="center" alt="Oner-databases" height="30" width="40" src="https://github.com/onezer00/onezer00/blob/main/images/database-solid.svg">
+  <img align="center" alt="Oner-Linux" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/linux-brands.svg">
+  <img align="center" alt="Oner-ubuntu" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/ubuntu-brands.svg">
+  <img align="center" alt="Oner-centos" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/centos-brands.svg">
+  <img align="center" alt="Oner-redhat" height="30" width="40" src="https://github.com/onezer00/onezer00/blob/main/images/redhat-brands.svg"/>
+  
 </div>
 ---
 <div style="display: inline"><br>
