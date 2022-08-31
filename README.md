@@ -7,7 +7,7 @@
   
   Abç
 </div>
-### Now Playing 🎧
+## Now Playing 🎧
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={true|1|on|yes})
 <br/>
