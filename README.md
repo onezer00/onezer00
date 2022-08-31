@@ -29,9 +29,8 @@
 	  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="20px"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M503.7 226.2l-176 151.1c-15.38 13.3-39.69 2.545-39.69-18.16V272.1C132.9 274.3 66.06 312.8 111.4 457.8c5.031 16.09-14.41 28.56-28.06 18.62C39.59 444.6 0 383.8 0 322.3c0-152.2 127.4-184.4 288-186.3V56.02c0-20.67 24.28-31.46 39.69-18.16l176 151.1C514.8 199.4 514.8 216.6 503.7 226.2z"/></svg> [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="20px"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M391.17,103.47H352.54v109.7h38.63ZM285,103H246.37V212.75H285ZM120.83,0,24.31,91.42V420.58H140.14V512l96.53-91.42h77.25L487.69,256V0ZM449.07,237.75l-77.22,73.12H294.61l-67.6,64v-64H140.14V36.58H449.07Z"/></svg>](https://www.twitch.tv/0nezer0)
 
 ### Coisas que eu ouvi recentemente 🎧
-<div>
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={width=300})![octocat](octocat-1661963313210.png)
-</div>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={width=300})<img src="https://github.com/onezer00/onezer00/blob/7937057f784013fe10473288283acbd852a894dd/octocat-1661963313210.png" />
+
 <br/>
 <div>
   <a href="https://github.com/onezer00">
