@@ -23,11 +23,14 @@
 	  - Apesar de ser bastante recluso, e normalmente me socializar através das redes sociais, não dispenso a companhia de boas amizades. 
 	  - Gosto de novos desafios e estou sempre envolvido em novos projetos que me desafiam.
 - 📫 **Como entrar em contato comigo**:</br>
-	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/linkedin-brands.svg" />](https://www.linkedin.com/in/onerzer00/)</br>
-	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://github.com/onezer00/onezer00/blob/main/images/square-github-brands.svg" />](https://github.com/onezer00)</br>
-  	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/square-instagram-brands.svg" />](https://www.instagram.com/oner.oficial/)</br>
-  	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/youtube-brands.svg" />](https://www.youtube.com/channel/UCM2hs1discHf0DX8b4pIStg)</br>
-	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/twitch-brands.svg" />](https://www.twitch.tv/0nezer0)
+<div>
+  <a href="https://www.youtube.com/channel/UCM2hs1discHf0DX8b4pIStg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/oner.oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/0nezer0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:caimbebr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-batista-18199b6b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 	  
 ---
 
@@ -63,14 +66,6 @@
 
   ##
   
-<div> 
-  <a href="https://www.youtube.com/channel/UCbSadvwmI-zGM68VOHuobVA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/oner.oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/0nezer0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caimbebr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-batista-18199b6b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div>  
   ![Snake animation](https://github.com/onezer00/onezer00/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
