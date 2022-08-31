@@ -55,7 +55,7 @@
   <img align="center" alt="Oner-redhat" height="30" width="40" src="https://github.com/onezer00/onezer00/blob/main/images/redhat-brands.svg"/>
   
 </div>
----
+
 <div style="display: inline"><br>
   <img alt="Oner-gif" height="180" width="420" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 </div>
