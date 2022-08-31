@@ -7,7 +7,10 @@
   
   Abç
 </div>
+### Now Playing 🎧
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/OneZerO)
+<br/>
 <div>
   <a href="https://github.com/onezer00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onezer00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
