@@ -68,5 +68,5 @@
  <img src="https://img.shields.io/github/forks/onezer00/onezer00?style=plastic" />
  <img src="https://img.shields.io/github/stars/onezer00/onezer00?style=plastic" />
  <img src="https://img.shields.io/github/license/onezer00/onezer00?style=plastic" />
- <img src="https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FOner68976222" />
+ [<img src="https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FOner68976222" />](https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FOner68976222)
 </div>
