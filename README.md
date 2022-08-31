@@ -48,12 +48,12 @@
   <img align="center" alt="Oner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br><br>
   <img align="right" alt="Jose-pic" height="150" style="border-radius:50px;" src="https://renderapi.s3.amazonaws.com/6dopEBdIR.png">
   </div>
- ---
 <div>
   <img align="center" alt="Oner-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img align="center" alt="Oner-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
-  <img align="center" alt="Oner-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Oner-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 </div>
+---
 <div style="display: inline"><br>
   <img alt="Oner-gif" height="180" width="420" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 </div>
