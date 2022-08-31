@@ -33,7 +33,9 @@
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={width=300})<img align="rigth" height="380em" width="380em" src="https://github.com/onezer00/onezer00/blob/7937057f784013fe10473288283acbd852a894dd/octocat-1661963313210.png" />
 
 <br/>
+
 ---
+
 <div>
   <a href="https://github.com/onezer00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onezer00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
