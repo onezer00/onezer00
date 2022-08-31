@@ -9,7 +9,7 @@
 </div>
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/rf1n5s1vmnozg6yxkzfen0qh2)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={true|1|on|yes})
 <br/>
 <div>
   <a href="https://github.com/onezer00">
