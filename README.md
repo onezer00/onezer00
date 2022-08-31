@@ -23,10 +23,10 @@
 	  - Apesar de ser bastante recluso, e normalmente me socializar através das redes sociais, não dispenso a companhia de boas amizades. 
 	  - Gosto de novos desafios e estou sempre envolvido em novos projetos que me desafiam.
 - 📫 **Como entrar em contato comigo**:</br>
-	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/linkedin-brands.svg" />](https://www.linkedin.com/in/onerzer00/)
-	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://github.com/onezer00/onezer00/blob/main/images/square-github-brands.svg" />](https://github.com/onezer00)
-  	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/square-instagram-brands.svg" />](https://www.instagram.com/oner.oficial/)
-  	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/youtube-brands.svg" />](https://www.youtube.com/channel/UCM2hs1discHf0DX8b4pIStg)
+	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/linkedin-brands.svg" />](https://www.linkedin.com/in/onerzer00/)</br>
+	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://github.com/onezer00/onezer00/blob/main/images/square-github-brands.svg" />](https://github.com/onezer00)</br>
+  	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/square-instagram-brands.svg" />](https://www.instagram.com/oner.oficial/)</br>
+  	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/youtube-brands.svg" />](https://www.youtube.com/channel/UCM2hs1discHf0DX8b4pIStg)</br>
 	[<img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/share-solid.svg" /> <img width="20px" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/twitch-brands.svg" />](https://www.twitch.tv/0nezer0)
 	  
 ---
