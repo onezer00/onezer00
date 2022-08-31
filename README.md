@@ -30,7 +30,7 @@
 
 ### Coisas que eu ouvi recentemente 🎧
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={width=300})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={width=300})![octocat](octocat-1661963313210.png)
 <br/>
 <div>
   <a href="https://github.com/onezer00">
