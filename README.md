@@ -63,10 +63,10 @@
   ##
  
 ![Snake animation](https://github.com/onezer00/onezer00/blob/output/github-contribution-grid-snake.svg)
-<div>
- <img src="https://img.shields.io/github/issues/onezer00/onezer00?style=plastic" />
- <img src="https://img.shields.io/github/forks/onezer00/onezer00?style=plastic" />
- <img src="https://img.shields.io/github/stars/onezer00/onezer00?style=plastic" />
- <img src="https://img.shields.io/github/license/onezer00/onezer00?style=plastic" />
- [<img src="https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FOner68976222" />](https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FOner68976222)
-</div>
+
+<img src="https://img.shields.io/github/issues/onezer00/onezer00?style=plastic" />
+<img src="https://img.shields.io/github/forks/onezer00/onezer00?style=plastic" />
+<img src="https://img.shields.io/github/stars/onezer00/onezer00?style=plastic" />
+<img src="https://img.shields.io/github/license/onezer00/onezer00?style=plastic" />
+[<img src="https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FOner68976222" />](https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FOner68976222)
+
