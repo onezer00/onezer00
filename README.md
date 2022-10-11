@@ -2,7 +2,7 @@
 ## Seja bem vindo, sou o Oner e é um prazer ter você aqui!
 
   - 🔭 **Atualmente estou trabalhando em**:
-	  - [*Spassu Técnologia*](https://www.spassu.com.br/) com projetos relacionados a Transformação Digital em uma equipe maravilhosa e comprometida com a criação de novas ferramentas que facilitem o mundo. 
+	  - Neste momento estou procurando novas oportunidades, estou procurando  novos desafios que utilizem Python ou Node, e tenho um conhecimento não tão aprofundado em c/c++. Se tiver oportunidades nessas áreas, gostaria de participar dos processos seletivos. 
   - 🌱 **Atualmente estou aprendendo**:
 	  - *Python*
 		  - [*Poetry*](https://python-poetry.org/)
