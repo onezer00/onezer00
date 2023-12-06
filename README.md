@@ -2,7 +2,7 @@
 ## Seja bem vindo, sou o Oner e é um prazer ter você aqui!
 
   - 🔭 **Atualmente estou trabalhando em**:
-	  - Neste momento estou procurando novas oportunidades, estou procurando  novos desafios que utilizem Python ou Node, e tenho um conhecimento não tão aprofundado em c/c++. Se tiver oportunidades nessas áreas, gostaria de participar dos processos seletivos. 
+	  - Neste momento, você está imerso em um ambiente de trabalho tecnologicamente avançado na IBM, uma das maiores empresas de tecnologia do mundo. Rodeado por múltiplos monitores exibindo linhas de código e diagramas de sistemas, você está profundamente focado em desenvolver softwares inovadores para a Petrobras. Seu trabalho combina habilidades em programação e engenharia de software, permitindo a criação de soluções que otimizam as operações de uma das maiores empresas de petróleo e gás do mundo. Você colabora com uma equipe diversificada de profissionais talentosos, compartilhando ideias e solucionando problemas complexos. Cada dia traz novos desafios e oportunidades para aprender e crescer profissionalmente, enquanto você contribui significativamente para projetos de grande impacto na indústria de energia.
   - 🌱 **Atualmente estou aprendendo**:
 	  - *Python*
 		  - [*Poetry*](https://python-poetry.org/)
