@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: joao-pecanha # optional, but default will use the same from github
+          CREDLY_USER: <joao-pecanha> # optional, but default will use the same from github
