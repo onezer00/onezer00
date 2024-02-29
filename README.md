@@ -32,8 +32,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-batista-18199b6b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Minhas conquistas recentes
----
+## Minhas conquistas recentes
 <!--START_SECTION:badges-->
 [![Data Visualization Using Python](https://images.credly.com/size/90x90/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png)](http://www.credly.com/badges/5846f0ea-1e83-47d4-91d9-50f30e3a32dc "Data Visualization Using Python")
 [![IBM watsonx Essentials](https://images.credly.com/size/90x90/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png)](http://www.credly.com/badges/a79976ec-9675-4526-8425-5e60055cdc62 "IBM watsonx Essentials")
