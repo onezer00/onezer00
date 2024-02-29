@@ -21,5 +21,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+          CREDLY_USER: joao-pecanha
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 24
