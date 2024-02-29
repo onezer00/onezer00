@@ -34,6 +34,7 @@
 
 ## Minhas conquistas recentes
 <!--START_SECTION:badges-->
+[![Data Analysis Using Python](https://images.credly.com/size/90x90/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)](http://www.credly.com/badges/d9e844d9-16ef-4bcd-9599-ca3f20088094 "Data Analysis Using Python")
 [![Data Visualization Using Python](https://images.credly.com/size/90x90/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png)](http://www.credly.com/badges/5846f0ea-1e83-47d4-91d9-50f30e3a32dc "Data Visualization Using Python")
 [![IBM watsonx Essentials](https://images.credly.com/size/90x90/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png)](http://www.credly.com/badges/a79976ec-9675-4526-8425-5e60055cdc62 "IBM watsonx Essentials")
 [![Chemicals and Petroleum Industry Jumpstart](https://images.credly.com/size/90x90/images/460ce135-603c-4f1a-80b1-57bd6038a18b/Chemicals-Petroleum-Industry-Jumpstart.png)](http://www.credly.com/badges/29d04462-aa30-4bb2-9995-f43b0ab0d428 "Chemicals and Petroleum Industry Jumpstart")
