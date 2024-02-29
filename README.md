@@ -33,7 +33,9 @@
 </div>
 	  
 ---
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+---
 ### Coisas que eu ouvi recentemente 🎧
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={width=300})<img align="rigth" height="380em" width="380em" src="https://github.com/onezer00/onezer00/blob/7937057f784013fe10473288283acbd852a894dd/octocat-1661963313210.png" />
 <div>
