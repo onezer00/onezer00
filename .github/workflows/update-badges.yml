@@ -22,5 +22,5 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
           CREDLY_USER: joao-pecanha
-          BADGE_SIZE: 60
+          BADGE_SIZE: 90
           NUMBER_LAST_BADGES: 24
