@@ -73,8 +73,6 @@
 
   ##
  
-![Snake animation](https://github.com/onezer00/onezer00/blob/output/github-contribution-grid-snake.svg)
-
 <img src="https://img.shields.io/github/issues/onezer00/onezer00?style=plastic" />
 <img src="https://img.shields.io/github/forks/onezer00/onezer00?style=plastic" />
 <img src="https://img.shields.io/github/stars/onezer00/onezer00?style=plastic" />
