@@ -34,6 +34,9 @@
 
 ## Minhas conquistas recentes
 <!--START_SECTION:badges-->
+[![Security and Privacy by Design Foundations](https://images.credly.com/size/90x90/images/c1ca6570-bdc6-40e9-8992-722050788418/Security-_-Privacy-by-Design-Foundational.png)](http://www.credly.com/badges/a904ea83-c133-49a2-8d5a-529b16765482 "Security and Privacy by Design Foundations")
+[![Think Like a Hacker](https://images.credly.com/size/90x90/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/f6bec119-5fb7-4d3a-83c3-2a9b454f5890 "Think Like a Hacker")
+[![Aerospace and Defense Industry Jumpstart](https://images.credly.com/size/90x90/images/7c8a3fe1-d474-48b4-9334-e231c3ed8419/Aerospace-And-Defense-Industry-Jumpstart.png)](http://www.credly.com/badges/e382e1e4-49a1-403e-9d8e-0ca94d237e68 "Aerospace and Defense Industry Jumpstart")
 [![Python Essentials 1](https://images.credly.com/size/90x90/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/77e404f3-8333-49d7-b666-18f2bccd7fbd "Python Essentials 1")
 [![Data Analysis Using Python](https://images.credly.com/size/90x90/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)](http://www.credly.com/badges/d9e844d9-16ef-4bcd-9599-ca3f20088094 "Data Analysis Using Python")
 [![Data Visualization Using Python](https://images.credly.com/size/90x90/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png)](http://www.credly.com/badges/5846f0ea-1e83-47d4-91d9-50f30e3a32dc "Data Visualization Using Python")
