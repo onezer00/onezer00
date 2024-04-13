@@ -34,6 +34,7 @@
 
 ## Minhas conquistas recentes
 <!--START_SECTION:badges-->
+[![Cybersecurity Threat Intelligence](https://images.credly.com/size/90x90/images/45c20fa0-a403-4a56-9792-1aeecc84c9cf/image.png)](http://www.credly.com/badges/c68d16d0-d314-4060-b083-4ba52298339b "Cybersecurity Threat Intelligence")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/90x90/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/88a690b8-a067-487c-b4eb-0fa39ef7a78a "Cybersecurity Fundamentals")
 [![Security and Privacy by Design Foundations](https://images.credly.com/size/90x90/images/c1ca6570-bdc6-40e9-8992-722050788418/Security-_-Privacy-by-Design-Foundational.png)](http://www.credly.com/badges/a904ea83-c133-49a2-8d5a-529b16765482 "Security and Privacy by Design Foundations")
 [![Think Like a Hacker](https://images.credly.com/size/90x90/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/f6bec119-5fb7-4d3a-83c3-2a9b454f5890 "Think Like a Hacker")
