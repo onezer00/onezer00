@@ -1,8 +1,6 @@
 
 ## Seja bem vindo, sou o Oner e é um prazer ter você aqui!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eric-Coutinho&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
   - 🔭 **Atualmente estou trabalhando em**:
 	  - Neste momento, você está imerso em um ambiente de trabalho tecnologicamente avançado na IBM, uma das maiores empresas de tecnologia do mundo. Rodeado por múltiplos monitores exibindo linhas de código e diagramas de sistemas, você está profundamente focado em desenvolver softwares inovadores para a Petrobras. Seu trabalho combina habilidades em programação e engenharia de software, permitindo a criação de soluções que otimizam as operações de uma das maiores empresas de petróleo e gás do mundo. Você colabora com uma equipe diversificada de profissionais talentosos, compartilhando ideias e solucionando problemas complexos. Cada dia traz novos desafios e oportunidades para aprender e crescer profissionalmente, enquanto você contribui significativamente para projetos de grande impacto na indústria de energia.
   - 🌱 **Atualmente estou aprendendo**:
@@ -35,6 +33,8 @@
 </div>
 
 ## Minhas conquistas recentes
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eric-Coutinho&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 <!--START_SECTION:badges-->
 [![Cybersecurity Threat Intelligence](https://images.credly.com/size/90x90/images/45c20fa0-a403-4a56-9792-1aeecc84c9cf/image.png)](http://www.credly.com/badges/c68d16d0-d314-4060-b083-4ba52298339b "Cybersecurity Threat Intelligence")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/90x90/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/88a690b8-a067-487c-b4eb-0fa39ef7a78a "Cybersecurity Fundamentals")
