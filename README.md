@@ -49,7 +49,7 @@
 [![Enterprise Design Thinking Practitioner](https://images.credly.com/size/90x90/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](http://www.credly.com/badges/3d4fd223-19da-457d-9e36-392170c1d43e "Enterprise Design Thinking Practitioner")
 [![IBM Garage Foundation](https://images.credly.com/size/90x90/images/9beccf39-df2f-4025-b971-3a7ec6dfdbfa/image.png)](http://www.credly.com/badges/29d0bc0b-096e-4ca5-9b18-a6da3a297b15 "IBM Garage Foundation")
 [![IBM Garage Essentials](https://images.credly.com/size/90x90/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/8e83a7e2-c39e-4647-bd5e-eb8df166eebc "IBM Garage Essentials")
-[![IBM Consulting Way](https://images.credly.com/size/90x90/images/29869d62-c388-41cd-a5b2-be4edec88743/image.png)](http://www.credly.com/badges/24562415-31b6-45cf-a1ee-9cd0f71f3c25 "IBM Consulting Way")
+[![IBM Consulting Way Habits - Foundational](https://images.credly.com/size/90x90/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png)](http://www.credly.com/badges/24562415-31b6-45cf-a1ee-9cd0f71f3c25 "IBM Consulting Way Habits - Foundational")
 <!--END_SECTION:badges-->
 ---
 ### Coisas que eu ouvi recentemente 🎧
