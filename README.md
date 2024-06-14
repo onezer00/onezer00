@@ -36,6 +36,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eric-Coutinho&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 <!--START_SECTION:badges-->
+[![IBM Agile Explorer](https://images.credly.com/size/120x120/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/3e6ca60f-2145-4f2e-91c4-85e1daf569e1 "IBM Agile Explorer")
 [![Cybersecurity Threat Intelligence](https://images.credly.com/size/120x120/images/45c20fa0-a403-4a56-9792-1aeecc84c9cf/image.png)](http://www.credly.com/badges/c68d16d0-d314-4060-b083-4ba52298339b "Cybersecurity Threat Intelligence")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/120x120/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/88a690b8-a067-487c-b4eb-0fa39ef7a78a "Cybersecurity Fundamentals")
 [![Security and Privacy by Design Foundations](https://images.credly.com/size/120x120/images/c1ca6570-bdc6-40e9-8992-722050788418/Security-_-Privacy-by-Design-Foundational.png)](http://www.credly.com/badges/a904ea83-c133-49a2-8d5a-529b16765482 "Security and Privacy by Design Foundations")
