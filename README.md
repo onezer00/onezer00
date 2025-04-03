@@ -58,6 +58,8 @@
 ---
 ### Coisas que eu ouvi recentemente 🎧
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rf1n5s1vmnozg6yxkzfen0qh2&unique={width=300})<img align="rigth" height="380em" width="380em" src="https://github.com/onezer00/onezer00/blob/7937057f784013fe10473288283acbd852a894dd/octocat-1661963313210.png" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onezer00&theme=great_gatsby)
+</br>
 <div>
   <a href="https://github.com/onezer00">
   <img height="180em" src="https://github-readme-stats-git-master-caimbebr.vercel.app/api?username=onezer00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -76,10 +78,6 @@
   <img align="center" alt="Oner-centos" height="30" width="40" src="https://raw.githubusercontent.com/onezer00/onezer00/main/images/centos-brands.svg">
   <img align="center" alt="Oner-redhat" height="30" width="40" src="https://github.com/onezer00/onezer00/blob/main/images/redhat-brands.svg"/>
   
-</div>
-
-<div style="display: inline"><br>
-  <img alt="Oner-gif" height="180" width="420" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 </div>
 
   ##
