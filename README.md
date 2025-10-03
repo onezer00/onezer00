@@ -37,6 +37,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eric-Coutinho&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/aeb631d9-6d40-4f19-84a0-b9b996b48ffe" title="IBM Generative AI Foundations"><img src="https://images.credly.com/size/80x80/images/98961274-6d4f-4346-81fe-330d21483cbe/AI-Generative-AI-Foundations.png" alt="IBM Generative AI Foundations" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/893e10c6-feb1-4e92-b00c-89ac4d0d411b" title="IBM Delivery Central Platform Foundations"><img src="https://images.credly.com/size/80x80/images/bef4952f-f3d5-49e8-895f-072149aad1a7/image.png" alt="IBM Delivery Central Platform Foundations" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5dcd1ee5-d7fc-4106-a55c-e17f42bb5cd2" title="Power Skills - Communication, Presentation, Collaboration, and Problem Solving"><img src="https://images.credly.com/size/80x80/images/8c309b9b-79d0-467f-a966-765b28c2aa50/image.png" alt="Power Skills - Communication, Presentation, Collaboration, and Problem Solving" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3e6ca60f-2145-4f2e-91c4-85e1daf569e1" title="IBM Agile Explorer"><img src="https://images.credly.com/size/80x80/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png" alt="IBM Agile Explorer" width="80" height="80"></a>
