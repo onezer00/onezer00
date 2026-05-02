@@ -38,7 +38,7 @@
 ---
 <!--START_SECTION:badges-->
 [![Achieve New Heights with Microsoft Gen AI, Copilot Mega Event—Participant](https://images.credly.com/size/80x80/images/fab60919-f6e6-44a6-b33e-1f8bb9637557/image.png)](https://www.credly.com/badges/9517532c-602a-4600-bea3-6a6c5fa7d0d7)
-[![IBM Generative & Agentic AI Foundation](https://images.credly.com/size/80x80/images/c50bc9f5-7c6a-4356-b4ef-04c7645c050a/IBM-Generative-and-Agentic-AI-Foundation.png)](https://www.credly.com/badges/26ff0043-14dd-44ed-8ae7-ffd05201cc88)
+[![IBM Generative & Agentic AI Foundation](https://images.credly.com/size/80x80/images/95ae9d80-bc45-40fa-84a1-45cba63bd44b/IBM-Generative-and-Agentic-AI-Foundation.png)](https://www.credly.com/badges/26ff0043-14dd-44ed-8ae7-ffd05201cc88)
 [![IBM Delivery Central Platform Foundations](https://images.credly.com/size/80x80/images/bef4952f-f3d5-49e8-895f-072149aad1a7/image.png)](https://www.credly.com/badges/893e10c6-feb1-4e92-b00c-89ac4d0d411b)
 [![Power Skills - Communication, Presentation, Collaboration, and Problem Solving](https://images.credly.com/size/80x80/images/20596ad5-f719-454a-9ccf-1a299fa63d6f/image.png)](https://www.credly.com/badges/5dcd1ee5-d7fc-4106-a55c-e17f42bb5cd2)
 [![IBM Agile Explorer](https://images.credly.com/size/80x80/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](https://www.credly.com/badges/3e6ca60f-2145-4f2e-91c4-85e1daf569e1)
